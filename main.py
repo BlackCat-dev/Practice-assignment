@@ -163,7 +163,7 @@ def main_loop():
         ## To
         to_e.place(x=1000)
 
-        ##Csv
+        ## Exs
         exs_b.place(x=90,y=120)
         exs_ab.place(x=310,y=110)
 
