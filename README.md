@@ -1,4 +1,4 @@
-# MusicPlayer
+# Practice-assignment
 Mini client for convenient sending of emails to other email addresses
 
 ## How to run the project?
